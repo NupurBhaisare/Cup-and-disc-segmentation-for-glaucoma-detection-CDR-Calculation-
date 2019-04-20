@@ -9,11 +9,11 @@ Copy the dataset into the folder of the code.
 ****The code has many places where the folder of the corresponding files named in the comments has to be properly mentioned****
 
 The code has 5 major functions:
-1.To extract images and cdr values from each folder of the image in the datset
-2.to segment the cup and disc region
-3.calculate the cdr values from these segmentation
-4.main function where images are fed to these function and corresponding cdr values are stored in as csv file
-5.Training of classification model and the output of results
+1.To extract images and cdr values from each folder of the image in the Dhristi datset.
+2.To segment the cup and disc region from each of the fundus image.
+3.Calculate the cdr values from these segmentations.
+4.Main function where segmented images are fed to these function and corresponding cdr values calculated and are stored in as csv file.
+5.Training of classification model and the output of results.
 
 The a,b,c,d csv files are real cdr values of each expert.
 x,y values are cdr values and its label of training dataset
