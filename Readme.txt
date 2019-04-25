@@ -21,3 +21,5 @@ x1,y1 are the calculated cdr values for test image and it's real label.
 
 
 The rest of the details are explained in the comments of the code itself.
+
+An adaptive threshold based algorithm for optic disc and cup segmentation in fundus images - https://ieeexplore.ieee.org/document/7095384
